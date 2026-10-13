@@ -1,0 +1,21 @@
+{
+  "college_name": "BVC Engineering College",
+  "location": "Odalarevu, Andhra Pradesh",
+  "courses": [
+    "Computer Science and Engineering",
+    "Artificial Intelligence and Machine Learning",
+    "Electronics and Communication Engineering"
+  ],
+  "admission": "Students should check eligibility, entrance exam requirements and counselling rules.",
+  "fees": {
+    "tuition_fee": "Demo value: Rs. 75000 per year",
+    "hostel_fee": "Demo value: Rs. 60000 per year",
+    "bus_fee": "Demo value: Rs. 20000 per year"
+  },
+  "timings": "Demo timings: 9:00 AM to 4:00 PM",
+  "scholarships": "Eligible students can check applicable government scholarship schemes.",
+  "hostel": "Hostel accommodation and food details need verification.",
+  "transport": "Bus routes, pickup points and transport fees need verification.",
+  "placements": "Placement training and recruitment details need verification.",
+  "contact": "Add the verified college phone number and official email here."
+}

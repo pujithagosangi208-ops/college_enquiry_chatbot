@@ -1,0 +1,23 @@
+PROJECT TITLE:
+AI-Based College Enquiry Chatbot
+
+PROBLEM STATEMENT:
+Students need information about college courses,
+admissions, fees, scholarships, hostel facilities,
+transport and placements. Searching for these details
+from different sources can be inconvenient.
+
+PROPOSED SOLUTION:
+We are developing a college enquiry chatbot that
+allows students to ask questions on a website and
+receive relevant answers.
+
+TARGET USERS:
+Students, parents and prospective students.
+
+TECHNOLOGIES:
+Python, Streamlit and keyword-based question matching.
+
+FUTURE IMPROVEMENT:
+Improve question understanding using NLP or an AI model
+and maintain verified college information.
